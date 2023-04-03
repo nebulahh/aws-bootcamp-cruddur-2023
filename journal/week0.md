@@ -17,3 +17,7 @@ This is the estimated total amount i am willing to spend on a service. This was 
 ### Create an IAM user
 
 The concept of IAM user is new to me. Created an IAM user using the root user, this IAM user does not have full authorization like the root user 
+
+### Recreate Logical Architectural Design
+
+![Cruddur Logical design](assets/logical-architectural-recreation-diagram.png)
