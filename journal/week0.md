@@ -21,3 +21,5 @@ The concept of IAM user is new to me. Created an IAM user using the root user, t
 ### Recreate Logical Architectural Design
 
 ![Cruddur Logical design](assets/logical-architectural-recreation-diagram.png)
+
+![Lucid chart shared link](https://lucid.app/lucidchart/3b5cb72e-d63e-48c5-9d64-15bd8b0d2072/edit?view_items=bypLIVW0QvVO&invitationId=inv_d04c9415-976e-453f-86f7-d5723f01b370)
